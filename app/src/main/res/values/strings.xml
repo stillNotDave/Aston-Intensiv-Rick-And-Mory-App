@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RickAndMortyApi2</string>
+
+    <string name="error_load">Failed to load information</string>
+    <string name="some_characters">Characters</string>
+    <string name="character_name">Character Name</string>
+    <string name="kind_of_character">Kind of character</string>
+    <string name="character_gender">Character gender</string>
+    <string name="character_status">Character status</string>
+    <string name="character_origin">Character origin</string>
+    <string name="episodes">Episodes</string>
+    <string name="status">Status</string>
+    <string name="some_episodes">Episodes</string>
+    <string name="episode_name">Episode Name</string>
+    <string name="episode_air_date">Episode air date</string>
+    <string name="episode_episode">Episode Episode</string>
+    <string name="characters">Characters</string>
+    <string name="name">Name</string>
+    <string name="air_date">Air date</string>
+    <string name="some_locations">Locations</string>
+    <string name="location_name">Location name</string>
+    <string name="location_type">Location type</string>
+    <string name="location_dimension">Location dimension</string>
+    <string name="population">Population</string>
+    <string name="type">Type</string>
+    <string name="main">Female</string>
+    <string name="male">Male</string>
+    <string name="genderless">Genderless</string>
+    <string name="unknown">unknown</string>
+    <string name="character_gender_item">Gender: </string>
+    <string name="character_origin_item">Origin: </string>
+    <string name="character_specie_item">Specie: </string>
+    <string name="character_status_item">Status: </string>
+    <string name="episode_episode_item">Episode: </string>
+    <string name="episode_air_date_item">Air Date: </string>
+    <string name="location_dimensions_item">Dimensions: </string>
+    <string name="location_type_item">Type: </string>
+    <string name="imageview">imageView</string>
+    <string name="search">Search</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="progress">progress</string>
+
+</resources>
